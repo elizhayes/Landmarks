@@ -2,7 +2,7 @@
 //  Hike.swift
 //  Landmarks
 //
-//  Created by Elizabeth Hayes on 7/18/22.
+//  Created by Elizabeth Hayes on 7/25/22.
 //
 
 import Foundation
